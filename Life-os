@@ -1,0 +1,21 @@
+life-os/
+│
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── crud.py
+│   │
+│   ├── routers/
+│   │   ├── events.py
+│   │   ├── goals.py
+│   │   └── users.py
+│   │
+│   └── core/
+│       └── patterns.py
+│
+├── requirements.txt
+├── docker-compose.yml
+├── .env
+└── README.md
